@@ -1,8 +1,20 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,500);
+
+html {
+	margin: 0px;
+	padding: 0px;
+}
+
 header, body {
+	margin: 0px;
+	padding: 0px;
+	display: block;
 	font-family:'Ubuntu', sans-serif;
 	font-size: 14px;
-	display: block;
+}
+
+img {
+	border: 0;
 }
 
 .header {
