@@ -17,7 +17,7 @@ header, body {
 	display: table;
 	width: 100%;
 	height: 100%;
-	background-image: url('/img/headshot.jpg') no-repeat scroll center center;
+	background-image: url('/img/headshot.jpg') no-repeat scroll center center transparent;
 	-webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
