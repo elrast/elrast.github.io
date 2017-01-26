@@ -1,4 +1,14 @@
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,500);
+#headshot {
+	src: url('/img/headshot.jpg');
+}
+
+
+
+
+
+
+
+/*@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,500);
 
 html {
 	margin: 0px;
@@ -18,19 +28,19 @@ header, body {
 	position: relative;
 	width: 100%;
     height: 100%;
-	background: url('/img/headshot.jpg') no-repeat center center scroll;
+	background: url('/img/header.jpg') no-repeat center center scroll;
 	-webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
 
-.hero-text { /* vertically centered text*/
+.hero-text { vertically centered text
     display: table-cell;
 	height: 667px;
     text-align: center;
     vertical-align: middle;
-    background-color: rgba(255, 255, 255, 0.75); /* white overlay */
+    background-color: rgba(255, 255, 255, 0.75);
 }
 
 #navbar {
@@ -39,3 +49,4 @@ header, body {
 	height: 64px;
 	width: 100%;
 }
+*/
